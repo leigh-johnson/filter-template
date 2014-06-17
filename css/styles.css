@@ -1,0 +1,47 @@
+
+.button-container{
+	width: 40%;
+	padding: 75px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.button-container #button {
+	margin: 0 auto;
+}
+
+#box-container{
+	width: 80%;
+	margin: 0 auto;
+}
+.box {
+	text-align: center;
+	float: left;
+	margin: 0 10px 10px 0;
+	width: 100px;
+	height: 100px;
+}
+
+.red {
+	background: #c0392b;
+}
+
+.blue {
+	background: #2980b9;
+}
+
+.orange {
+	background: #e67e22;
+}
+
+.purple {
+	background: #8e44ad;
+}
+
+.hidden {
+	display: none;
+}
+
+.visible {
+	display: block;
+}
